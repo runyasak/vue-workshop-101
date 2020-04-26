@@ -1,29 +1,12 @@
-# vue-workshop-101
+# vue-workshop-101 - Pokedex Website
 
-## Project setup
-```
-npm install
-```
+## Scope of work
+- List of Pokemons page (Just first 20 pokemons, pagination is optional)
+- Detail of Pokemon by ID page
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Limitations
+- **Do not** use Vue component library such as Vuetify, Buefy, and so on. Using css library as we decided, tailwindcss.
+- Using eslint rules as we assigned and **do not** commit `eslint-disable`, but for external library.
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## API Ref
+- https://pokeapi.co/
